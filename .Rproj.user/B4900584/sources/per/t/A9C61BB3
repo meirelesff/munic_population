@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533580758162.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "960434492",
+    "id" : "A9C61BB3",
+    "lastKnownWriteTime" : 1531534843,
+    "last_content_update" : 1531534843,
+    "path" : "~/populacao_ibge/banco.R",
+    "project_path" : "banco.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

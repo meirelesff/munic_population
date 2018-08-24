@@ -8,3 +8,7 @@ The cleaned data in `.Rda` format can be download [here](https://github.com/meir
 load(url("https://github.com/meirelesff/munic_population/raw/master/pop_ibge_2000_2017.Rda"))
 ```
 
+## Note:
+
+Years with missing data: only 2007.
+
